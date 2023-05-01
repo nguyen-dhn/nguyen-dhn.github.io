@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Better Than Yesterday
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Nguyen. I'm based in Danang. I mainly use Python as my primary programming language.
 
-What else do you need?
+I work as an AI Engineer and also a Team Leader at FTECH.AI. I have three-year exp in Computer Vision / ML / Deep Learning (basically). Now, I'm learning more about deploying, scaling, optimizing, and monitoring AI applications in production (preferred as MLOps).
 
-### My story
+### 🙋🏻‍♂️ Sharing
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I've started to post some short notes on <https://www.nguyendhn.com/>. Take a look!
+
+### 🙄 Leisure
+
+Curious about what I do once I close the lid of my laptop?
+
+Photography 📷
+
+Reading 📕
+
+Badminton 🏸
+
+Watching movies 🎬
+
+Spending time with my wife and my family 😄
