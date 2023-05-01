@@ -594,11 +594,7 @@ Bạn đã tuyệt vời sẵn rồi. Dù cho bạn có nhận ra điều này h
 
 ---
 
-### For Grokking …
-
-Thật ra quyển sách này em  đợi tới giờ mới viết review được vì em gần như phải đọc lại mới nhớ được các nội dung. Đây là quyển sách em rất thích vì nó mang lại những góc nhìn khá mới lạ (với em) về các vấn đề trong cuộc sống. Có những lúc những ý này đã động viên bản thân em rất nhiều khi gặp khó khăn hoặc khi phải đưa ra một quyết định nào đó.
-
-Em đã note lại hết những dòng mà mình thích trong quyển sách này, tuy nhiên nó khá dài và khi public trên trang cá nhân em không biết có bị dính bản quyền không, nên em xin phép tóm tắt một số ý em tâm đắc nhất ở đây ạ. Còn lại dẫn chứng thì anh em có thể tham khảo thêm khi đọc sách.
+### Tóm lại
 
 - Đếch quan tâm ở đây không phải là vô tâm, nhưng là đếch cần quan tâm đến quá nhiều thứ, bớt để ý, chỉ quan tâm đến những gì thực tế, cấp bách và thực sự quan trọng mà thôi. Điều này đòi hỏi mình phải ý thức được điều-quan-trọng-và-có-ý-nghĩa-trong-cuộc-đời, nếu không thì mối quan tâm của bạn sẽ đặt vào những mục đích vô nghĩa và phù phiếm.
 - Hầu như tất cả chúng ta đều chỉ ở mức trung bình trong hầu hết những việc mình làm. *Cho dù bạn có xuất sắc ở một lĩnh vực nào đó, thì bạn vẫn chỉ tàm tạm hay dưới cả mức tàm tạm ở những lĩnh vực khác.* Buồn thay, Internet, bên cạnh việc là một nguồn mở về thông tin; nó còn là một nguồn mở về sự bất an, nghi ngờ bản thân, và cảm giác tủi hổ. → Và sự nhận biết và chấp nhận sự tồn tại tầm thường của bạn sẽ thực sự cho phép bạn đạt tới những điều mà bạn ao ước đạt được, mà không phải chịu những phán xét hay những kỳ vọng cao ngất.
