@@ -3,15 +3,13 @@ layout: post
 title: Format code Python tự động sử dụng isort, black, flake8 và pre-commit
 # subtitle: 
 comments: true
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2
+# thumbnail-img: /assets/img/thumb.png
+# share-img: /assets/img/path.jpg
+tags: [python]
 ---
 
-### TL; DR
-
-Trước khi thực hiện Git commit, mình sẽ dùng isort và black để format code tự động, sau đó dùng flake8 để kiểm tra lại lần nữa với chuẩn PEP8 (tất cả được cấu hình bằng pre-commit). Quá trình commit sẽ thành công nếu như không có lỗi xảy ra. Nếu xuất hiện lỗi, chúng ta sẽ quay lại sửa những chỗ cần thiết và commit lại lần nữa. Workflow này giúp giảm thời gian reformat code thủ công, nhờ đó chúng ta có thể tập trung hơn vào phần logic. Team làm việc với nhau cũng dễ dàng và hiệu quả hơn.
+**TL; DR**: Trước khi thực hiện Git commit, mình sẽ dùng isort và black để format code tự động, sau đó dùng flake8 để kiểm tra lại lần nữa với chuẩn PEP8 (tất cả được cấu hình bằng pre-commit). Quá trình commit sẽ thành công nếu như không có lỗi xảy ra. Nếu xuất hiện lỗi, chúng ta sẽ quay lại sửa những chỗ cần thiết và commit lại lần nữa. Workflow này giúp giảm thời gian reformat code thủ công, nhờ đó chúng ta có thể tập trung hơn vào phần logic. Team làm việc với nhau cũng dễ dàng và hiệu quả hơn.
 
 ## Code Convention: Bạn có tốn quá nhiều công sức cho nó?
 
