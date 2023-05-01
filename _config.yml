@@ -21,10 +21,9 @@ author: NguyenDHN
 
 navbar-links:
   About Me: "aboutme"
-  # Resources:
-  # - Beautiful Jekyll: "https://"
-  # - Learn markdown: "https://"
-  Author's home: "https://nguyendhn.com"
+  Others:
+    - My Unsplash: "https://unsplash.com/@nguyendhn"
+    - My Instagram: "https://www.instagram.com/nguyendhn_"
 
 ################
 # --- Logo --- #
