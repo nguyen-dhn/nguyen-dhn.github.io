@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Format code Python tự động sử dụng isort, black, flake8 và pre-commit
+title: {python} Format code tự động sử dụng isort, black, flake8 và pre-commit
 # subtitle: 
 comments: true
 cover-img: https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2
